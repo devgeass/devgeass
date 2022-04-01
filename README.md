@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @devgeass!
+- 👀 I’m interested in full stack software development.
+- 🌱 I’m currently learning Golang and Microservice Architecture.
+- 📫 Follow me on Instagram @devgeass for tips and tuts on software engineering concepts.
+- 📫 Follow me on Twitter @devgeass for updates on my learning arcs.
